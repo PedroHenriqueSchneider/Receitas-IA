@@ -24,8 +24,8 @@ feedback_manager = RecipeFeedbackManager()
 
 # Chave da API do Spoonacular
 #API_KEY = "f3c3a0bd153e40c18e2e8b1a4848b3d2"
-API_KEY = "a405707f782c4928a1df9956d0c3db81"
-
+#API_KEY = "a405707f782c4928a1df9956d0c3db81"
+API_KEY = "acc9d45ce96b4f1a9cf8295f94837c39"
 # Simulação de dados de treinamento (substitua isso pelos seus próprios dados reais)
 training_data = [
     {"ingredients": "tomato onion garlic", "preference": "vegetarian"},
